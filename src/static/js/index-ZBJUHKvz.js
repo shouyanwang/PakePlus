@@ -1,0 +1,1 @@
+import{s as t,q as e}from"./index-DWZ4RG6E.js";function p(r={}){return t({url:"/bms/v1/report",method:"GET",params:e(r)})}function s(r={}){return t({url:"/bms/v1/report",method:"POST",data:e(r)})}function a(r={}){return t({url:`/bms/v1/report/${r.id}`,method:"GET",params:e(r)})}export{a,p as g,s as p};
