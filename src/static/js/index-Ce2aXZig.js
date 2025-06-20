@@ -1,0 +1,1 @@
+import{s as r,q as a}from"./index-v815L3Uz.js";function l(e={}){return r({url:"/bms/v1/elder/op",method:"GET",params:a(e)})}function s(e={}){return r({url:"/bms/v1/elder/all",method:"GET",params:a(e)})}export{s as a,l as g};
